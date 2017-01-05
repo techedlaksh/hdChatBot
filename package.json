@@ -1,0 +1,21 @@
+{
+  "name": "hdchatbot",
+  "version": "1.0.0",
+  "description": "fb msngr chat bot for hackdeal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hdchatbot",
+    "fb",
+    "mngr"
+  ],
+  "author": "techedlaksh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
